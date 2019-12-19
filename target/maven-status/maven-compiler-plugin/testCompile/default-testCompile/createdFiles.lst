@@ -1,0 +1,4 @@
+com/bontsi/dev/framework/HibernateTest.class
+com/bontsi/dev/framework/dao/UserDAO.class
+com/bontsi/dev/framework/dao/UserDAOImpl.class
+com/bontsi/dev/framework/AppTest.class

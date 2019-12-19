@@ -1,0 +1,7 @@
+/Users/ndimphiwe/IdeaProjects/hibernateframework/src/main/java/com/bontsi/dev/framework/App.java
+/Users/ndimphiwe/IdeaProjects/hibernateframework/src/main/java/com/bontsi/dev/framework/dao/HibernateUtil.java
+/Users/ndimphiwe/IdeaProjects/hibernateframework/src/main/java/com/bontsi/dev/framework/dao/GenericDAO.java
+/Users/ndimphiwe/IdeaProjects/hibernateframework/src/main/java/com/bontsi/dev/framework/dao/DAOFactory.java
+/Users/ndimphiwe/IdeaProjects/hibernateframework/src/main/java/com/bontsi/dev/framework/dao/HibernateDAOFactory.java
+/Users/ndimphiwe/IdeaProjects/hibernateframework/src/main/java/com/bontsi/dev/framework/dao/GenericHibernateDAO.java
+/Users/ndimphiwe/IdeaProjects/hibernateframework/src/main/java/com/bontsi/dev/framework/model/User.java

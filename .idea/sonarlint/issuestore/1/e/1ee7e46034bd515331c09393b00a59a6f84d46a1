@@ -1,0 +1,19 @@
+
+asquid:S1192"LDefine a constant instead of duplicating this literal "123 address" 4 times.(½¹‘
+asquid:S1192"GDefine a constant instead of duplicating this literal "Bontsi" 4 times.(À£¨Óûÿÿÿÿ
+Zsquid:S1192"FDefine a constant instead of duplicating this literal "ndira" 4 times.(µÍo
+isquid:UselessImportCheck"GRemove this unused import 'com.bontsi.dev.framework.dao.HibernateUtil'.(ÁÜóô
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ŸÖš
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïÇ–Ø
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õàøÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(»’ı\
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıÉŒ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(³†í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğµ‡ğ

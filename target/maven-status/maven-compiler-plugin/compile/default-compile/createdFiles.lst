@@ -1,0 +1,7 @@
+com/bontsi/dev/framework/dao/HibernateUtil.class
+com/bontsi/dev/framework/dao/HibernateDAOFactory.class
+com/bontsi/dev/framework/dao/GenericHibernateDAO.class
+com/bontsi/dev/framework/dao/GenericDAO.class
+com/bontsi/dev/framework/model/User.class
+com/bontsi/dev/framework/dao/DAOFactory.class
+com/bontsi/dev/framework/App.class

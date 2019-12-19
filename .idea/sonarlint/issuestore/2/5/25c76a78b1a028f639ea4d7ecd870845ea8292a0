@@ -1,0 +1,7 @@
+
+msquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‡áüÿÿÿÿÿ8ÁíÒì-
+Bsquid:S1905."$Remove this unnecessary cast to "T".(ŒÜğ£8ÁíÒì-
+^squid:CallToDeprecatedMethod."/Remove this use of "UPGRADE"; it is deprecated.(ŒÜğ£8ÁíÒì-
+Gsquid:S19050"$Remove this unnecessary cast to "T".(º†¼Õÿÿÿÿÿ8ÁíÒì-
+jsquid:CallToDeprecatedMethod<"6Remove this use of "createCriteria"; it is deprecated.(¯³ÆÅúÿÿÿÿ8ÁíÒì-
+jsquid:CallToDeprecatedMethod^"6Remove this use of "createCriteria"; it is deprecated.(¯³ÆÅúÿÿÿÿ8ÁíÒì-
